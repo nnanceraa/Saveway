@@ -1,0 +1,293 @@
+[12-Jan-2016 21:07:29 UTC] PHP Fatal error:  Call to undefined function password_verify() in /home/nnanceraa/public_html/Saveway/Login.php on line 27
+[12-Jan-2016 21:07:50 UTC] PHP Fatal error:  Call to undefined function password_verify() in /home/nnanceraa/public_html/Saveway/Login.php on line 27
+[12-Jan-2016 21:08:44 UTC] PHP Fatal error:  Call to undefined function password_verify() in /home/nnanceraa/public_html/Saveway/Login.php on line 27
+[12-Jan-2016 21:10:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:40:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:41:16 UTC] PHP Warning:  move_uploaded_file(/Saveway/images/boar.png): failed to open stream: No such file or directory in /home/nnanceraa/public_html/Saveway/Uploadphp.php on line 27
+[14-Jan-2016 17:41:16 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpY9ytuM' to '/Saveway/images/boar.png' in /home/nnanceraa/public_html/Saveway/Uploadphp.php on line 27
+[14-Jan-2016 17:41:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:43:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:45:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:46:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:50:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:50:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:52:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:52:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 17:52:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Profile.php:64
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Profile.php(64): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Profile.php on line 64
+[14-Jan-2016 17:52:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Profile.php:64
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Profile.php(64): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Profile.php on line 64
+[14-Jan-2016 17:52:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Profile.php:64
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Profile.php(64): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Profile.php on line 64
+[14-Jan-2016 17:54:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.item' doesn't exist' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 17:56:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY ITEM_NAME' at line 1' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 17:56:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY ITEM_NAME' at line 1' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 17:56:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2) ORDER BY ITEM_NAME' at line 1' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 17:56:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2) ORDER BY ITEM_NAME' at line 1' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 17:56:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2) ORDER BY ITEM_NAME' at line 1' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 18:02:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:02:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:06:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:06:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:08:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:09:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:11:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:14:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:14:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:14:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:16:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:17:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:21:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:21:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 18:22:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY ITEM_NAME' at line 1' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 18:22:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 20:10:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 20:10:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 20:11:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 20:11:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 20:16:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 20:16:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.customer' doesn't exist' in /home/nnanceraa/public_html/Saveway/Admin.php:129
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Admin.php(129): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Admin.php on line 129
+[14-Jan-2016 20:18:07 UTC] PHP Parse error:  syntax error, unexpected '$getCustomers' (T_VARIABLE) in /home/nnanceraa/public_html/Saveway/Admin.php on line 128
+[14-Jan-2016 20:18:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.invoice' doesn't exist' in /home/nnanceraa/public_html/Saveway/Orders.php:4
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Orders.php(4): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Admin.php(151): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Orders.php on line 4
+[14-Jan-2016 20:18:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.invoice' doesn't exist' in /home/nnanceraa/public_html/Saveway/Orders.php:4
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/Orders.php(4): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Admin.php(151): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/Orders.php on line 4
+[14-Jan-2016 20:19:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'Saveway.item' doesn't exist' in /home/nnanceraa/public_html/Saveway/read.php:10
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/read.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/read.php on line 10
+[14-Jan-2016 20:47:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY ITEM_NAME' at line 1' in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php:39
+Stack trace:
+#0 /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php(39): PDOStatement->execute()
+#1 /home/nnanceraa/public_html/Saveway/Cart.php(63): include('/home/nnanceraa...')
+#2 {main}
+  thrown in /home/nnanceraa/public_html/Saveway/CartProducts/shoppingcart.php on line 39
+[14-Jan-2016 21:06:09 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/bakery.php on line 24
+[14-Jan-2016 21:09:13 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 26
+[14-Jan-2016 21:09:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 26
+[14-Jan-2016 21:11:08 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:12:08 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:13:25 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:13:27 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:14:04 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:14:06 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:14:13 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:15:34 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[14-Jan-2016 21:15:49 UTC] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/nnanceraa/public_html/Saveway/CartProducts/produce.php on line 32
+[20-Feb-2016 16:41:08 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[20-Feb-2016 16:41:08 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[20-Feb-2016 18:40:54 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[20-Feb-2016 18:40:54 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[29-Feb-2016 05:20:33 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[29-Feb-2016 05:20:33 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[29-Feb-2016 05:20:33 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[29-Feb-2016 05:20:33 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[09-Mar-2016 01:15:22 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[09-Mar-2016 01:15:22 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[13-Mar-2016 00:08:15 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[13-Mar-2016 00:08:15 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[13-Mar-2016 18:09:38 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[13-Mar-2016 18:09:38 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[14-Mar-2016 13:00:00 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[14-Mar-2016 13:00:00 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[22-Mar-2016 11:18:21 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[22-Mar-2016 11:18:21 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[24-Mar-2016 10:54:49 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[24-Mar-2016 10:54:49 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[26-Mar-2016 22:23:02 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[26-Mar-2016 22:23:02 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[29-Mar-2016 04:33:34 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[29-Mar-2016 04:33:34 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[31-Mar-2016 09:17:31 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[31-Mar-2016 09:17:31 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[04-Apr-2016 13:28:31 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[04-Apr-2016 13:28:31 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[06-Apr-2016 22:41:27 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[06-Apr-2016 22:41:27 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[16-Apr-2016 15:00:56 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[16-Apr-2016 15:00:56 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[28-Apr-2016 02:08:17 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[28-Apr-2016 02:08:17 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[27-May-2016 04:54:56 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[27-May-2016 04:54:56 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[28-May-2016 13:31:35 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[28-May-2016 13:31:35 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77
+[28-May-2016 22:57:27 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 71
+[28-May-2016 22:57:27 UTC] PHP Notice:  Undefined variable: result in /home/nnanceraa/public_html/Saveway/Profile.php on line 77

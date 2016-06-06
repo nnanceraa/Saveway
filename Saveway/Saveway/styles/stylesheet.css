@@ -1,0 +1,591 @@
+/* So the HTML5 structural tags work in older browsers */
+article, aside, figure, footer, header, nav, section {
+    display: block;
+}
+
+/* the styles for the elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    background-color: white;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 87.5%;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fffded;
+    height:100%;
+}
+a:focus, a:hover {
+    font-style: italic;
+}
+/* the styles for the header */
+header {
+    padding: 20px 0;
+    background-image: -moz-linear-gradient(
+        30deg, #599601 0%, #fffded 25%, white 50%, #fffded 80%, #599601 100%);
+    background-image: -webkit-linear-gradient(
+        30deg, #599601 0%, #fffded 25%, white 50%, #fffded 80%, #599601 100%);
+    background-image: -o-linear-gradient(
+        30deg, #599601 0%, #fffded 25%, white 50%, #fffded 80%, #599601 100%);
+    background-image: linear-gradient(
+        30deg, #599601 0%, #fffded 25%, white 50%, #fffded 80%, #599601 100%);
+}
+header h1 {
+    color: #599601;
+}
+header h2 {
+    font-style: italic;
+}
+header img {
+    float: left;
+    padding: 0 30px;
+}
+.shadow {
+    text-shadow: 2px 2px 2px #599601;
+}
+
+/* the styles for the navigation bar */
+nav {
+    clear: both;
+}
+nav ul {
+    list-style: none;
+    padding:5px;  
+    background-color: #599601; 
+}
+nav li {
+    font-size: 20px;
+    display: inline; 
+}
+nav a {
+    padding: 5px;
+    text-decoration: none;
+    color: #fffded;
+    font-weight: bold;
+    border-right: 1px solid #fffded; 
+}
+nav a.current { color: #87dd89; }
+
+/* the styles for the section */
+section {
+    clear:right;
+    padding: 20px;
+    width: 100%;
+    float: left;
+}
+section h1 {
+    color: #599601;
+    font-size: 150%;
+    padding: .5em 0 .25em;
+}
+section h2 {
+    font-size: 120%;
+    padding-bottom: .25em;
+}
+section p {
+    padding-bottom: .5em;
+}
+section blockquote {
+    padding: 0 2em;
+    font-style: italic;
+}
+
+aside {
+    width: 215px;
+    float: left;
+    padding-right: 20px;
+}
+aside h1 {
+    color: #599601;
+    font-size: 150%;
+    padding: .5em 0 .25em;
+}
+aside h2 {
+    font-size: 120%;
+    padding-bottom: .25em;
+}
+aside img {
+    padding-bottom: 1em;
+}
+
+aside a {
+    padding: 1em 2em;
+    text-decoration: none;
+    display: block;
+    background-color: #9fcc60;
+    color: #fffded;
+    font-weight: bold;
+    border-right: 2px solid #fffded; 
+    border-bottom: 1px solid #FFFFFF;
+}
+
+aside a:link {color: #ffffff;}
+aside a:visited { color: #eaeaea; }
+aside a:hover {color: #9fcc60; background-color: #eaeaea; }
+
+footer {
+    border-top: 3px solid #599601;
+    clear: both;
+}
+footer p {
+    padding: 1em 0;
+    text-align: center;
+}
+
+/* the styles for the section */
+section {
+    clear:right;
+    padding: 5px;
+    float: left;
+}
+/* MISC */
+.loginregister{
+    width:200px;
+}
+#logBox{
+    border: 1px solid #599601;
+    width: 240px;
+    height: 150px;
+    padding-left: 7px;
+}
+
+#tabs{
+    width:300px;
+}
+
+#tabs2{
+    width:95%;
+}
+
+#cartBox{
+    border: 1px solid #599601;
+    width:410px;
+}
+
+tr,td{
+    border: 1px solid #599601;
+}
+
+.sidebyside{
+    display: inline;
+
+}
+
+.profile{
+    color: darkgreen;
+    text-indent: 15px;
+    font-weight: bold;
+    border:gray solid 1px;
+}
+
+.customBtn {
+    cursor:pointer;
+    margin:0 .3em 0 0;
+    -moz-box-shadow:inset 0px 1px 0px 0px #caefab;
+    -webkit-box-shadow:inset 0px 1px 0px 0px #caefab;
+    box-shadow:inset 0px 1px 0px 0px #caefab;
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #77d42a), color-stop(1, #5cb811) );
+    background:-moz-linear-gradient( center top, #77d42a 5%, #5cb811 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#77d42a', endColorstr='#5cb811');
+    background-color:#77d42a;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    border-radius:6px;
+    border:1px solid #268a16;
+    display:inline-block;
+    color:#ffffff;
+    font-family:arial;
+    font-size:15px;
+    font-weight:bold;
+    width:60px;
+    padding-top:3px; 
+    padding-bottom:3px;
+    text-decoration:none;
+    text-align: center;
+}
+
+.customBtn:hover {
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(#5cb811), color-stop(1, #77d42a) );
+    background:-moz-linear-gradient( center top, #5cb811 5%, #77d42a 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5cb811', endColorstr='#77d42a');
+    background-color:#5cb811;
+}
+
+.customBtn:active {
+    position:relative;
+    top:1px;
+}
+
+
+.userId{
+    display:none;
+}
+
+#viewUsers,
+#addUser{
+    float:left;
+}
+
+#loaderImage{
+    float:left;
+    line-height:32px;
+}
+#register{
+    border: 1px solid #599601;
+    width: 280px;
+    height: 230px;
+    padding-left: 7px;
+}
+
+.accord{
+    height:330px;
+}
+.accord img{
+    height:180px;
+}
+#tabs{
+    width:480px;
+}
+#searchForm #name{
+    height:28px;
+}
+#search, #goCart, .accord a{
+    width:150px;
+}
+
+#cartTable img{
+    height:190px;
+    width:190px;
+}
+#ProfileSave1{
+    width:190px;
+}
+#productTable {
+    font-size: 12pt;
+}
+#adminBtn{
+    
+    display:inline-block;
+}
+#logOut{
+    
+    display:inline-block;
+}
+#usercheck{
+    text-align: right;
+}
+
+/**********************
+ for 1024px or more ....BIGGEST
+ **********************/
+@media screen and (min-width: 1024px) {
+    #logBox{
+        width: 280px;
+        height: 160px;
+        padding-left: 7px;
+    }
+    .loginregister{
+        width:210px;
+    }
+    header h1 {
+        font-size: 25pt;
+        color: #599601;
+    }
+    header h2 {
+        font-size: 18pt;
+        font-style: italic;
+        padding-bottom:6px;
+    }
+    nav li {
+        font-size: 23px;
+    }
+    nav a {
+        padding: 5px;
+    }
+    #tabs{
+        width:95%;
+    }
+
+    section h1{
+        font-size: 18pt;
+    }
+    section h2{
+        font-size: 15pt;
+    }
+
+    header img{
+        height:73px;
+    }
+
+    footer p{
+        font-size: 12pt;
+    }
+    header a{
+        font-size: 16px;
+    }
+    #register{
+        width: 280px;
+        height: 260px;
+        padding-left: 7px;
+    }
+
+    .accord{
+        height:400px;
+    }
+    .accord img{
+        height:200px;
+    }
+    #tabs{
+        width:500px;
+    }
+    .accord h4{
+        font-size:13pt;
+    }
+    #search{
+        width:190px;
+    }
+    #goCart{
+        width:190px;
+    }
+    .accord a{
+        width:190px;
+    }
+    #searchForm #name{
+        height:28.5px;
+    }
+    #cartBox{
+        width:430px;
+
+    }
+    #cartTable img{
+        width:210px;
+        height:210px;
+    }
+    #ProfileSave1{
+        width:200px;
+    }
+    #productTable {
+        font-size: 14pt;
+    }
+
+    .customBtn {
+        font-size:18px;
+        width:80px;
+    }
+    #adminBtn{
+    
+    display:inline-block;
+}
+#logOut{
+    
+    display:inline-block;
+}
+#usercheck{
+    text-align: right;
+}
+}
+
+/***********************
+ for 700px or less
+ ***********************/
+@media screen and (max-width: 700px) {
+    header h1 {
+        font-size: 15pt;
+        color: #599601;
+    }
+    header h2 {
+        font-size: 10pt;
+        font-style: italic;
+        padding-bottom:6px;
+    }
+    nav li {
+        font-size: 14px;
+    }
+    nav a {
+        padding: 12px;
+    }
+    #tabs{
+        width:80%;
+    }
+
+    section h1{
+        font-size: 12pt;
+    }
+    section h2{
+        font-size: 10pt;
+    }
+
+    header img{
+        height:55px;
+    }
+
+    footer p{
+        font-size: 10pt;
+    }
+    .loginregister{
+        width:150px;
+    }
+    #logBox{
+        width: 210px;
+        height: 150px;
+        padding-left: 6px;
+    }
+    header a{
+        font-size: 14px;
+    }
+
+    .accord img{
+        height:180px;
+    }
+
+    .accord h4{
+        font-size:9pt;
+    }
+    #search,#goCart, .accord a{
+        width:120px;
+    }
+    #searchForm #name{
+        height:23px;
+    }
+    #cartBox{
+        width:400px;
+    }
+    #cartTable img{
+        width:180px;
+        height:180px;
+    }
+    #register{
+        width: 260px;
+        height: 220px;
+        padding-left: 7px;
+    }
+    form label{
+        font-size: 10pt;
+    }
+    .accord{
+        height:320px;
+    }
+    #ProfileSave1{
+        width:150px;
+    }
+    #productTable {
+        font-size: 10pt;
+    }
+    .customBtn {
+        font-size:14px;
+        width:58px;
+    }
+    #adminBtn{
+    
+    display:inline-block;
+}
+#logOut{
+    
+    display:inline-block;
+}
+#usercheck{
+    text-align: right;
+}
+}
+
+
+/**********************
+ for 480px or less 
+ ***********************/
+@media screen and (max-width: 480px) {
+    header h1 {
+        font-size: 12pt;
+        color: #599601;
+    }
+    header h2 {
+        font-size: 8pt;
+        font-style: italic;
+        padding-bottom:5px;
+    }
+    nav li {
+        font-size: 12px;
+    }
+    nav a {
+        padding: 10px;
+    }
+    #tabs{
+        width:95%;
+    }
+
+    section h1{
+        font-size: 10pt;
+    }
+    section h2{
+        font-size: 9pt;
+    }
+
+    header img{
+        height:50px;
+    }
+
+    footer p{
+        font-size: 8pt;
+    }
+    .loginregister{
+        width:100px;
+    }
+    #logBox{
+        width: 200px;
+        height: 140px;
+        padding-left: 5px;
+    }
+    header a{
+        font-size: 13px;
+    }
+    .accord img{
+        height:160px;
+    }
+
+    .accord a{
+        width:115px;
+    }
+
+    #cartBox{
+        width:370px;
+    }
+    #cartTable img{
+        width:150px;
+        height:150px;
+    }
+    #register{
+        width: 250px;
+        height: 220px;
+        padding-left: 7px;
+    }
+    form label{
+        font-size: 9pt;
+    }
+    #ugh{
+        font-size:10pt;
+    }
+    .accord{
+        height:300px;
+    }
+    #productTable {
+        font-size: 9pt;
+    }
+    .customBtn {
+        font-size:12px;
+        width:58px;
+    }
+    #adminBtn{
+    
+    display:inline-block;
+}
+#logOut{
+    
+    display:inline-block;
+}
+#usercheck{
+    text-align: right;
+}
+}
